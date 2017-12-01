@@ -33,7 +33,7 @@ The primary diagonal is:
      -12
 ```
 
-Sum across the primary diagonal: * 11 + 5 - 12 = 4 *
+Sum across the primary diagonal: *11 + 5 - 12 = 4*
 
 The secondary diagonal is:
 ```
@@ -42,7 +42,7 @@ The secondary diagonal is:
 10
 ```
 
-Sum across the secondary diagonal: *4 + 5 + 10 = 19 *
+Sum across the secondary diagonal: *4 + 5 + 10 = 19*
 Difference: *|4 - 19| = 15*
 
 **Note:** |x| is absolute value function
