@@ -1,3 +1,6 @@
+# The Staircase Problem
+> From Hacker Rank
+
 Consider a staircase of size *n = 4*:
 ```
    #
@@ -11,12 +14,12 @@ Observe that its base and height are both equal to **n**, and the image is drawn
 Write a program that prints a staircase of size *n*.
 
 ## Input Format
-A single integer, , denoting the size of the staircase.
+A single integer, *n* , denoting the size of the staircase.
 
 ## Output Format
-Print a staircase of size  using # symbols and spaces.
+Print a staircase of size *n* using `#` symbols and spaces.
 
-**Note:** The last line must have  spaces in it.
+**Note:** The last line must have *0* spaces in it.
 
 ## Sample Input
 ```
